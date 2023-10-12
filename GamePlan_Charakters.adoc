@@ -1,0 +1,9 @@
+= Charakters
+
+*Every Player can choose between n characters*
+
+. Swampcrawler
+
+Movement: slow while on ground, no jumping
+
+Ability Groundfade: while grounded by pressing down character enters groundfade form, when pressing down while in groundfade form character exits form instantly, character fades into Ground (hitbox is in ground) moves faster, a green slime puddle shows where the character is, can be in this form for 5 seconds after 5 sec character exits groundfade form, when pressing up while in groundfade character jumps up high into the air and is able to jump over bigger obstacles
