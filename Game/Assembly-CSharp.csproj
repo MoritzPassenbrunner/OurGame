@@ -58,6 +58,12 @@
   <ItemGroup>
     <Compile Include="Assets\PlayerController.cs" />
     <Compile Include="Assets\Player.cs" />
+    <Compile Include="Assets\Entity.cs" />
+    <Compile Include="Assets\Item.cs" />
+    <Compile Include="Assets\Character.cs" />
+    <Compile Include="Assets\Obstacle.cs" />
+    <Compile Include="Assets\DefaultCharacter.cs" />
+    <Compile Include="Assets\Util.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
